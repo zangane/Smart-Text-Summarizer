@@ -18,15 +18,17 @@ Smart Text Summarizer is a lightweight, PHP-based tool that intelligently extrac
 4. Ranks sentences by their total word scores.
 5. Returns the top N sentences as a summary.
 
-## 🧪 Example
+## Example
 
 **Input:**
+
 Artificial Intelligence is transforming industries across the globe.
 It helps machines learn from experience.
 AI is used in healthcare, finance, and transportation.
 The field of AI includes machine learning and deep learning.
 
 **Output:**
+
 Artificial Intelligence is transforming industries across the globe.
 
 AI is used in healthcare, finance, and transportation.
